@@ -1,3 +1,7 @@
+# Unreleased
+
+- Added: `--watch` CLI option now checks for changes in imported files
+
 # 1.1.0 - 2015-03-05
 
 - Added: `--config` CLI option
